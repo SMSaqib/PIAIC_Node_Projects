@@ -1,0 +1,27 @@
+{
+  "name": "@saqib1987/oopbank",
+  "version": "1.0.0",
+  "description": "\"customer bank balance\"",
+  "type": "module",
+  "main": "main.js",
+  "bin":"main.js",
+  "scripts": {
+    "test": "No"
+  },
+  "repository": {
+    "type": "git",
+    "url": "no"
+  },
+  "keywords": [
+    "no"
+  ],
+  "author": "Shaikh Muhammad Saqib",
+  "license": "ISC",
+  "dependencies": {
+    "@types/inquirer": "^9.0.6",
+    "fs": "^0.0.1-security",
+    "inquirer": "^9.2.11",
+    "module": "^1.2.5",
+    "path": "^0.12.7"
+  }
+}

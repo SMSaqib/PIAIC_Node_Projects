@@ -1,0 +1,21 @@
+{
+  "name": "@saqib1987/calculator",
+  "version": "1.0.1",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "bin": "Calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.3",
+    "@types/node": "^20.5.6"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.10"
+  }
+}

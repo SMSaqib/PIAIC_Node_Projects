@@ -1,0 +1,20 @@
+What is TypeScript primarily used for?	Data analysis	Front-end web development	Database management	Game development	Front-end web development
+Which keyword is used to declare a variable in TypeScript?	let	variable	declare	var	let
+TypeScript is a strongly typed language. What does this mean?	Variables can change types at runtime	Variables must have their types explicitly declared	Variables can have any type without declaration	Variables must have their types explicitly declared	Variables must have their types explicitly declared
+What is the purpose of the any type in TypeScript?	It represents an unknown type	It specifies that a variable can have any data type	It enforces strict typing	It is not a valid type in TypeScript	It specifies that a variable can have any data type
+What does the function keyword indicate in TypeScript?	A variable declaration	A data type	A class definition	A function declaration	A function declaration
+Which TypeScript feature allows you to create a new type based on existing types?	Type assertion	Type annotation	Type inference	Type alias	Type alias
+In TypeScript, what does the constructor method in a class do?	To create instances of the class	To initialize class properties	To define class methods	It is not required in a class	To initialize class properties
+Is TypeScript code directly executed in web browsers?	True	False			False
+What does the : number[] notation indicate in TypeScript?	A function name	A string value	An array of numbers	A boolean value	An array of numbers
+Which TypeScript construct is used to represent a fixed-size array with a known data type for each element?	Tuple	Interface	Function	Class	Tuple
+Which of the following is not a valid TypeScript data type?	string	float	boolean	undefined	float
+What is an interface in TypeScript used for?	To declare a variable	To define a custom data type	To create a function	To import modules	To define a custom data type
+In TypeScript, what is the purpose of the import statement?	To export a module	To include external libraries	To declare a variable	To define a function	To include external libraries
+Which ECMAScript standard introduced the let and const keywords for variable declaration?	ECMAScript 5	ECMAScript 6 (ES2015)	ECMAScript 7	ECMAScript 10	ECMAScript 6 (ES2015)
+What is Inquirer.js primarily used for in a TypeScript application?	To validate HTML code	To handle user input and command-line prompts	To create RESTful APIs	To manage database connections	To handle user input and command-line prompts
+Which TypeScript construct is used to represent a list of key-value pairs where keys are strings and values can be of any type?	Tuple	Interface	Function	Array	Interface
+What is the purpose of the void keyword in TypeScript?	To declare an empty object	To indicate that a function does not return a value	To create a new type	To define a class	To indicate that a function does not return a value
+Which TypeScript feature allows you to define custom types that can represent different data structures?	Enums	Generics	Classes	Modules	Generics
+What does the extends keyword indicate when defining an interface in TypeScript?	It specifies inheritance from a class	It specifies inheritance from another interface	It denotes a type constraint for a generic type	It is not used in interface definitions	It specifies inheritance from another interface
+In TypeScript, what is the purpose of the export keyword?	To import external modules	To declare a variable	To make a module or component accessible in other files	To define a function	To make a module or component accessible in other files

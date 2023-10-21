@@ -1,0 +1,38 @@
+{
+<<<<<<< HEAD
+  "name": "@saqib1987/countdown-timer",
+  "version": "1.0.2",
+  "description": "",
+  "type": "module",
+  "main": "main.js",
+=======
+  "name": "@saqib1987/std",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "app.js",
+  "bin": {
+    "std": "app.js"
+  },
+>>>>>>> 0f2593a8cdd9c0e1ac4d57b63cd9c6cbc39b0972
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": "main.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+<<<<<<< HEAD
+    "@types/inquirer": "^9.0.4",
+    "inquirer": "^9.2.11"
+  }
+=======
+    "@types/chalk-animation": "^1.6.1",
+    "@types/sqlite3": "^3.1.9",
+    "axios": "^1.5.1",
+    "chalk-animation": "^2.0.3",
+    "inquirer": "^9.2.10",
+    "sqlite3": "^5.1.6"
+  },
+  "description": ""
+>>>>>>> 0f2593a8cdd9c0e1ac4d57b63cd9c6cbc39b0972
+}

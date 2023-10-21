@@ -1,0 +1,31 @@
+Step-01:Create a blank file main.tsc
+Step-02: npm init -y
+Step-02: tsc -- init
+Step-03: tsc -w
+Step-04: install libraries 
+        npm i inquirer
+        npm i --save-dev @types/inquirer
+Step-05: ammend files
+Adding   "type": "module", in package.json
+In tsconfig.json please change the following:
+    "target": "es2020",                                  /* Set the JavaScript language version for emitted JavaScript and include compatible library declarations. */
+    "module": "NodeNext",                                /* Specify what module code is generated. */
+    "moduleResolution": "NodeNext",                     /* Specify how TypeScript looks up a file from a given module specifier. */
+
+Step-06:Start writing code in main.tsc
+    1. import
+    2. Declare variable
+    3. Build logic
+     a. If user input is number between 0-10
+     b. if user input is greater then 10 
+     c. user input string mistakenly
+     d. user input is matched
+     e. user input is matched and want to continue
+     f. user input if continue
+     g. user input if Not continue
+     h. user input is not matched
+     i. user input is not matched and attempt left
+     k. Thanks message
+
+
+

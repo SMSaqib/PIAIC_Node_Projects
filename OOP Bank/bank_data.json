@@ -1,0 +1,34 @@
+[
+  {
+    "customerName": "saqib",
+    "transactionType": "Deposit",
+    "transactionAmount": 2000,
+    "transactionDate": "2023-10-21T07:45:02.998Z",
+    "accountBalance": 3000,
+    "pin": "1987"
+  },
+  {
+    "customerName": "saqib",
+    "transactionType": "Withdraw",
+    "transactionAmount": 2000,
+    "transactionDate": "2023-10-21T07:49:33.287Z",
+    "accountBalance": 1000,
+    "pin": "1987"
+  },
+  {
+    "customerName": "saqib",
+    "transactionType": "Withdraw",
+    "transactionAmount": 300,
+    "transactionDate": "2023-10-21T07:49:37.990Z",
+    "accountBalance": 700,
+    "pin": "1987"
+  },
+  {
+    "customerName": "saqib",
+    "transactionType": "Withdraw",
+    "transactionAmount": 500,
+    "transactionDate": "2023-10-21T07:49:41.384Z",
+    "accountBalance": 200,
+    "pin": "1987"
+  }
+]
