@@ -1,0 +1,43 @@
+[
+    {
+      "text": "Do you feel energized after spending time with others?",
+      "options": ["Yes", "No"]
+    },
+    {
+      "text": "Are you comfortable with public speaking?",
+      "options": ["Yes", "No"]
+    },
+    {
+      "text": "Do you prefer one-on-one conversations over group discussions?",
+      "options": ["Yes", "No"]
+    },
+    {
+      "text": "How often do you seek out social events and gatherings?",
+      "options": ["Frequently", "Occasionally", "Rarely"]
+    },
+    {
+      "text": "When making decisions, do you rely more on your gut feeling or logic?",
+      "options": ["Gut feeling", "Logic"]
+    },
+    {
+      "text": "How do you feel about spending time alone?",
+      "options": ["Enjoy it", "Prefer being with others"]
+    },
+    {
+      "text": "When meeting new people, are you typically the first to strike up a conversation?",
+      "options": ["Yes", "No"]
+    },
+    {
+      "text": "Do you find it easy to express your thoughts and emotions to others?",
+      "options": ["Yes", "No"]
+    },
+    {
+      "text": "In your free time, do you often seek out new experiences and adventures?",
+      "options": ["Yes", "No"]
+    },
+    {
+      "text": "How do you recharge after a long day?",
+      "options": ["Spend time with friends or in social settings", "Spend time alone in a quiet space"]
+    }
+  ]
+  

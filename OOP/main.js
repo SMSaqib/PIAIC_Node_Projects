@@ -1,0 +1,2 @@
+const __filename;
+export {};
