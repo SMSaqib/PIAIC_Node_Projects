@@ -10,6 +10,7 @@ const dataFilePath = path.join(__dirname, 'bank_data.json');
 console.log(`${__filename} , ${__dirname}`)
 
 class BankCustomer {
+    
     public customerName: string;
     private _accountBalance: number;
     protected pin: number
